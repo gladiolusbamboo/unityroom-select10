@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 104e98e79f167904799220e8b3e9f568, type: 3}
+  m_Name: TweenParams
+  m_EditorClassIdentifier: 
+  title:
+    "\u30ED\u30B4\u30D5\u30A7\u30FC\u30C9":
+      ease: 3
+      time: 1
+      start: 0
+      end: 1
+    "\u30DC\u30BF\u30F3\u51FA\u73FE\u30B9\u30B1\u30FC\u30EB":
+      ease: 24
+      time: 1
+      start: 0
+      end: 1
+    "\u30DC\u30BF\u30F3\u30B0\u30ED\u30FC\u30D5\u30A7\u30FC\u30C9":
+      ease: 9
+      time: 0.5
+      start: 0
+      end: 1
+    "\u30B9\u30BF\u30FC\u30C8\u6587\u5B57\u79FB\u52D5":
+      ease: 27
+      time: 0.5
+      start: -561
+      end: -116
+    "\u30BF\u30A4\u30C8\u30EB\u30B0\u30EB\u30FC\u30D7\u30D5\u30A7\u30FC\u30C9\u30A2\u30A6\u30C8":
+      ease: 9
+      time: 1
+      start: 1
+      end: 0
+    "\u30B9\u30BF\u30FC\u30C8\u30AF\u30EA\u30C3\u30AF":
+      ease: 24
+      time: 1
+      start: 1.5
+      end: 1
+    startWait: 0.25
+  game:
+    "\u30B0\u30EB\u30FC\u30D7\u30D5\u30A7\u30FC\u30C9\u30A4\u30F3":
+      ease: 9
+      time: 2
+      start: 0
+      end: 1
+    "\u30B0\u30EB\u30FC\u30D7\u30D5\u30A7\u30FC\u30C9\u30A2\u30A6\u30C8":
+      ease: 9
+      time: 1
+      start: 1
+      end: 0
+    "\u30DC\u30BF\u30F3\u51FA\u73FE":
+      ease: 0
+      time: 0
+      start: 0
+      end: 0
+    "\u30DC\u30BF\u30F3\u30B0\u30ED\u30FC":
+      ease: 0
+      time: 0
+      start: 0
+      end: 0
+    "\u30BF\u30A4\u30E0\u30D0\u30FC\u306A\u304C\u3055": 10
+    "\u30BF\u30A4\u30E0\u30D0\u30FC\u306E\u3073":
+      ease: 9
+      time: 1
+    "\u304B\u304F\u3060\u3044":
+      ease: 24
+      time: 1
+      start: 0
+      end: 1
+    "\u8DB3\u3059\u30B9\u30B3\u30A2\u79FB\u52D5":
+      ease: 9
+      time: 0.5
+      start: -58
+      end: -31.1
+    "\u8DB3\u3059\u30B9\u30B3\u30A2\u3075\u3047\u30FC\u3069":
+      ease: 9
+      time: 0.5
+    "\u8DB3\u3059\u30B9\u30B3\u30A2\u7D99\u7D9A\u6642\u9593": 1
+    "\u3046\u306B\u79FB\u52D5":
+      ease: 1
+      time: 2
+      start: 530
+      end: -530
+    "\u3046\u306B\u7E26\u30E9\u30F3\u30C0\u30E0": 200
+    "\u3046\u306B\u30B8\u30E3\u30F3\u30D7":
+      jumpPower: 500
+      numJumps: 1
+      duration: 3
+      snapping: 0
+    "\u3086\u306B\u30B8\u30E3\u30F3\u30D7":
+      jumpPower: 200
+      numJumps: 1
+      duration: 1.25
+      snapping: 0
+    "\u3086\u306B\u6A2A\u30E9\u30F3\u30C0\u30E0": 150
+  bg:
+    "\u56DE\u8EE2\u6642\u9593": 2
+  "\u753B\u9762\u4E0B": -6
