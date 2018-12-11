@@ -1,3 +1,3 @@
 # select10
 
-![Preview](Preview.png)  
+![Preview.png](http://www.youtube.com/watch?v=KzImoFXp2G0)
